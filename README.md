@@ -62,7 +62,7 @@ A comprehensive platform for developer events and meetups
   <a href="mailto:Sokolov_Gr@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
-  <a href="https://t.me/Gr_Sokolov">
+  <a href="https://t.me/Sokolov_Gr">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
