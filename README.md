@@ -43,9 +43,6 @@ I'm a Python Backend Developer passionate about creating efficient and scalable 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SokolovG&layout=compact&theme=tokyonight" />
 </div>
-<div align="center">
-  <img src="https://now-playing-codestackr.vercel.app/api/now-playing" />
-</div>
 
 ## 🚀 Featured Projects
 
