@@ -27,6 +27,21 @@ I'm a Python Backend Developer passionate about creating efficient and scalable 
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sokolovgv&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sokolovgv&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sokolovgv&theme=tokyo-night" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokolovgv&layout=compact&theme=tokyonight" />
+</div>
+<div align="center">
+  <img src="https://now-playing-codestackr.vercel.app/api/now-playing" />
+</div>
+
 ## 🚀 Featured Projects
 
 ### DevEvents Platform
