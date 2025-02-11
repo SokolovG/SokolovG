@@ -2,13 +2,16 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480" />
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/844dcd30-f1f0-4756-a5e2-d86a01230631.svg)](https://wakatime.com/@844dcd30-f1f0-4756-a5e2-d86a01230631)
-
+<div align="center">
+  
+[Skills](#-technical-stack) • [Projects](#-featured-projects) • [Learning](#-current-learning-path) • [Contact](#-connect-with-me)
+  
+</div>
 
 
 # Hi there, I'm Grigoriy Sokolov 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Backend+Developer;Full+Stack+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Full+Stack+Enthusiast;Clean+Code+Advocate;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 
 I'm a Python Backend Developer passionate about creating efficient and scalable web applications. With a strong foundation in Django and REST APIs, I focus on delivering high-quality code and robust solutions. Currently expanding my expertise in modern web technologies and system architecture.
