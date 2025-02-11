@@ -22,6 +22,8 @@ I'm a Python Backend Developer passionate about creating efficient and scalable 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Litestar-7929E5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTkgNS41VjExLjVMMTIgMTVMNSAxMS41VjUuNUwxMiAyWiIvPjwvc3ZnPg==&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-FF4500?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -49,7 +51,7 @@ I'm a Python Backend Developer passionate about creating efficient and scalable 
 
 ### DevEvents Platform
 A comprehensive platform for developer events and meetups
-- Full-stack application with Django/DRF backend and Svelte frontend
+- Full-stack application with Litestar backend and Svelte frontend
 - RESTful API with JWT authentication
 - PostgreSQL database integration
 - Docker containerization
@@ -58,16 +60,17 @@ A comprehensive platform for developer events and meetups
 
 ## 🎯 Professional Focus
 
-- Building scalable backend solutions with Django/DRF
+- Building scalable backend solutions with Django/DRF or Litestar
 - Developing modern frontend applications using Svelte
 - Implementing robust database architectures
 - Creating comprehensive test coverage
 - Learning system design and architecture
-- Contributing to open-source projects
+
 
 ## 💡 Current Learning Path
 
 - Advanced Django and DRF concepts
+- Advanced Litestar
 - Frontend development with Svelte
 - System architecture and design patterns
 - DevOps practices and tools
