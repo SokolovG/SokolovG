@@ -28,15 +28,15 @@ I'm a Python Backend Developer passionate about creating efficient and scalable 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sokolovgv&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sokolovgv&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SokolovG&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SokolovG&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sokolovgv&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SokolovG&theme=tokyo-night" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokolovgv&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SokolovG&layout=compact&theme=tokyonight" />
 </div>
 <div align="center">
   <img src="https://now-playing-codestackr.vercel.app/api/now-playing" />
