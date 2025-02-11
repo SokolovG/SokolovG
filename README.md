@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480" />
+</div>
+
+[![wakatime](https://wakatime.com/badge/user/844dcd30-f1f0-4756-a5e2-d86a01230631.svg)](https://wakatime.com/@844dcd30-f1f0-4756-a5e2-d86a01230631)
+
+
+
 # Hi there, I'm Grigoriy Sokolov 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Backend+Developer;Full+Stack+Enthusiast)](https://git.io/typing-svg)
