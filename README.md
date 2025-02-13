@@ -66,12 +66,9 @@ A comprehensive platform for developer events and meetups
 
 ## 💡 Current Learning Path
 
-- Advanced Django and DRF concepts
-- Advanced Litestar
-- Frontend development with Svelte
-- System architecture and design patterns
-- DevOps practices and tools
-- API security and optimization
+- Celery
+- Redis
+- MongoDB
 
 ## 🌍 Languages
 
