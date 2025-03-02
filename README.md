@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[Skills](#-technical-stack) • [Projects](#-featured-projects) • [Learning](#-current-learning-path) • [Contact](#-connect-with-me)
+[Skills](#-technical-stack) • [Projects](#-featured-projects) •  [Contact](#-connect-with-me)
   
 </div>
 
