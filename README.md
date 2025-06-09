@@ -44,16 +44,6 @@ I'm a Python Backend Developer passionate about creating efficient and scalable 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SokolovG&layout=compact&theme=tokyonight" />
 </div>
 
-## 🚀 Featured Projects
-
-### DevEvents Platform
-A comprehensive platform for developer events and meetups
-- Full-stack application with Litestar backend and Svelte frontend
-- RESTful API with JWT authentication
-- PostgreSQL database integration
-- Docker containerization
-- Modern UI with Tailwind CSS
-- Event management and user participation features
 
 ## 🎯 Professional Focus
 
@@ -63,12 +53,6 @@ A comprehensive platform for developer events and meetups
 - Creating comprehensive test coverage
 - Learning system design and architecture
 
-
-## 💡 Current Learning Path
-
-- Celery
-- Redis
-- MongoDB
 
 ## 🌍 Languages
 
