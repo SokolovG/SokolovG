@@ -11,7 +11,7 @@
 
 # Hi there, I'm Grigoriy Sokolov 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Full+Stack+Enthusiast;Clean+Code+Advocate;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Clean+Code+Advocate;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 
 I'm a Python Backend Developer passionate about creating efficient and scalable web applications. With a strong foundation in Django and REST APIs, I focus on delivering high-quality code and robust solutions. Currently expanding my expertise in modern web technologies and system architecture.
@@ -59,15 +59,15 @@ I'm a Python Backend Developer passionate about creating efficient and scalable 
 <div align="center">
   <img src="https://img.shields.io/badge/Russian-Native-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hebrew-B2-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-A2-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/German-A2-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-B1-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/German-B1-orange?style=for-the-badge" />
 </div>
 
 ## 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:Sokolov_Gr@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
   <a href="https://t.me/Sokolov_Gr">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
