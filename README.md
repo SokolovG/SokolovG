@@ -74,7 +74,7 @@ I'm a Python Backend Developer passionate about creating efficient and scalable 
   </a>
 </p>
 
-<p align="center">📍 Based in Haifa, Israel</p>
+<p align="center">📍 Based in Vienna, Austria</p>
 
 ---
 <p align="center">
