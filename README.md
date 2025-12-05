@@ -34,7 +34,6 @@ I'm a Python Backend Developer passionate about creating efficient and scalable 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SokolovG&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SokolovG&theme=tokyonight" />
 </div>
 
 <div align="center">
