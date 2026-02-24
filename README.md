@@ -61,17 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SokolovG&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SokolovG&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌍 Languages
 
 ![Russian](https://img.shields.io/badge/Russian-Native-blue?style=for-the-badge)
