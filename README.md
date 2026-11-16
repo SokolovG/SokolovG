@@ -4,7 +4,7 @@
 
 # Hi, I'm Grigoriy Sokolov 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Clean+Architecture+Advocate;Backend+%2B+Mobile;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Clean+Architecture+Advocate;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sokolovg&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/SokolovG)
 
@@ -24,6 +24,8 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-grey?style=for-the-badge&logo=python&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![taskiq](https://img.shields.io/badge/Taskiq-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![msgspec](https://img.shields.io/badge/msgspec-2B2B2B?style=for-the-badge&logo=python&logoColor=white)
 
 ### Architecture & Patterns
 ![Dishka](https://img.shields.io/badge/Dishka-6B21A8?style=for-the-badge&logo=python&logoColor=white)
@@ -41,6 +43,8 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white)
 
 ### Tooling & DevOps
 ![Click](https://img.shields.io/badge/Click-FF6B35?style=for-the-badge&logo=python&logoColor=white)
@@ -50,8 +54,10 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MyPy](https://img.shields.io/badge/MyPy-2A6DB2?style=for-the-badge&logo=python&logoColor=white)
+![ty](https://img.shields.io/badge/ty-261230?style=for-the-badge&logo=astral&logoColor=D7FF64)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=python&logoColor=black)
 ![UV](https://img.shields.io/badge/UV-4B32C3?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
